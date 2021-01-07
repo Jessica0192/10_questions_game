@@ -8,10 +8,16 @@ This is the front page of the game:
 The instruction below will allow you to run the program in local machine
 
 <br/>
-<h3><b>Deploying UWP</b></h3>
-<p>Visual Studio 2019 includes this framework to build, test, and deploy. 
-Ensure that during the update, you are running the required .NET desktop development kit.
-In order to access and use MySQL database, you must already have MySQL.</p>
+<h3><b>From Build to Deploy the Project</b></h3>
+<p>Visual Studio 2019 includes this framework to build, test, and deploy. Ensure that you are running the required .NET desktop development kit.</p>
+
+<br>
+<p>Please ensure you are using appropriate solution platform when deploying the program.</p>
+<img src=https://user-images.githubusercontent.com/70799519/103855137-59e01780-50f5-11eb-9b59-42af3b155d61.png>
+
+<br/>
+<h3><b>Create Database</b></h3>
+<p>In order to access and use MySQL database, you must already have MySQL.</p>
 
 There is a sql file called 'createDB.sql' inside of 'CreateDBForGame' folder.
 Please download and import it to create a appropriate database.
