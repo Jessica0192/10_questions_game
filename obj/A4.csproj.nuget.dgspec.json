@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\localWebSite\\RDB\\A4\\A4.csproj": {}
+    "C:\\Projects\\10 Questions Game\\A4.csproj": {}
   },
   "projects": {
-    "C:\\localWebSite\\RDB\\A4\\A4.csproj": {
+    "C:\\Projects\\10 Questions Game\\A4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\localWebSite\\RDB\\A4\\A4.csproj",
+        "projectUniqueName": "C:\\Projects\\10 Questions Game\\A4.csproj",
         "projectName": "A4",
-        "projectPath": "C:\\localWebSite\\RDB\\A4\\A4.csproj",
+        "projectPath": "C:\\Projects\\10 Questions Game\\A4.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\localWebSite\\RDB\\A4\\obj\\",
+        "outputPath": "C:\\Projects\\10 Questions Game\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [

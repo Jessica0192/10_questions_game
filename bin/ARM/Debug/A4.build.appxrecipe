@@ -10,22 +10,22 @@
     <PackageArchitecture>arm</PackageArchitecture>
     <PackageIdentityName>cb14d3f1-41d0-48d8-bba7-116dacf72029</PackageIdentityName>
     <PackageIdentityPublisher>CN=DELL</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\localWebSite\RDB\A4\obj\ARM\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Projects\10 Questions Game\obj\ARM\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType></RemoteDeploymentType>
     <PackageRegistrationPath></PackageRegistrationPath>
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\localWebSite\RDB\A4\bin\ARM\Debug\AppX</LayoutDir>
+    <LayoutDir>C:\Projects\10 Questions Game\bin\ARM\Debug\AppX</LayoutDir>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\localWebSite\RDB\A4\bin\ARM\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Projects\10 Questions Game\bin\ARM\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\localWebSite\RDB\A4\bin\ARM\Debug\A4.exe">
+    <AppxPackagedFile Include="C:\Projects\10 Questions Game\bin\ARM\Debug\A4.exe">
       <PackagePath>entrypoint\A4.exe</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\DELL\.nuget\packages\bouncycastle.netcore\1.8.3\lib\netstandard2.0\BouncyCastle.Crypto.dll">
@@ -85,61 +85,61 @@
     <AppxPackagedFile Include="C:\Users\DELL\.nuget\packages\microsoft.toolkit.uwp.ui.controls.datagrid\6.1.1\lib\uap10.0.16299\Microsoft.Toolkit.Uwp.UI.Controls.DataGrid\Microsoft.Toolkit.Uwp.UI.Controls.DataGrid.xr.xml">
       <PackagePath>Microsoft.Toolkit.Uwp.UI.Controls.DataGrid\Microsoft.Toolkit.Uwp.UI.Controls.DataGrid.xr.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\localWebSite\RDB\A4\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Projects\10 Questions Game\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\localWebSite\RDB\A4\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Projects\10 Questions Game\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\localWebSite\RDB\A4\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Projects\10 Questions Game\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\localWebSite\RDB\A4\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Projects\10 Questions Game\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\localWebSite\RDB\A4\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Projects\10 Questions Game\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\localWebSite\RDB\A4\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Projects\10 Questions Game\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\localWebSite\RDB\A4\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Projects\10 Questions Game\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\localWebSite\RDB\A4\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Projects\10 Questions Game\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\localWebSite\RDB\A4\bin\ARM\Debug\A4.xr.xml">
+    <AppxPackagedFile Include="C:\Projects\10 Questions Game\bin\ARM\Debug\A4.xr.xml">
       <PackagePath>A4.xr.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\localWebSite\RDB\A4\bin\ARM\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Projects\10 Questions Game\bin\ARM\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\localWebSite\RDB\A4\bin\ARM\Debug\AnswersWindow.xbf">
+    <AppxPackagedFile Include="C:\Projects\10 Questions Game\bin\ARM\Debug\AnswersWindow.xbf">
       <PackagePath>AnswersWindow.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\localWebSite\RDB\A4\bin\ARM\Debug\LeaderBoard.xbf">
+    <AppxPackagedFile Include="C:\Projects\10 Questions Game\bin\ARM\Debug\LeaderBoard.xbf">
       <PackagePath>LeaderBoard.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\localWebSite\RDB\A4\bin\ARM\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Projects\10 Questions Game\bin\ARM\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\localWebSite\RDB\A4\bin\ARM\Debug\Questions.xbf">
+    <AppxPackagedFile Include="C:\Projects\10 Questions Game\bin\ARM\Debug\Questions.xbf">
       <PackagePath>Questions.xbf</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.18362.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\localWebSite\RDB\A4\bin\ARM\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Projects\10 Questions Game\bin\ARM\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\localWebSite\RDB\A4\bin\ARM\Debug\Core\A4.exe">
+    <AppxPackagedFile Include="C:\Projects\10 Questions Game\bin\ARM\Debug\Core\A4.exe">
       <PackagePath>A4.exe</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>

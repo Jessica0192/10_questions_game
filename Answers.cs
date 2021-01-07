@@ -18,7 +18,7 @@ namespace A4
 {
     public class Answers
     {
-        string strconn = "Server=localhost;Database=rdba4;Uid=root;Pwd=password123;";
+        string strconn = "Server=localhost;Database=tenQuestionsGame;Uid=root;Pwd=password123;";
 
         /*
          * FUCNTION: GetAnswer
