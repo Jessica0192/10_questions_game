@@ -21,3 +21,12 @@ The instruction below will allow you to run the program in local machine
 
 There is a sql file called 'createDB.sql' inside of 'CreateDBForGame' folder.
 Please download and import it to create a appropriate database.
+<br/>
+<h3>Change Password</h3>
+<p>Please change the password to your mysql root password in projects listed below</p>
+- Records.cs<br/>
+- Questions.xaml.cs<br/>
+- LeaderBoard.xaml.cs<br/>
+- ConnectDB.cs<br/>
+- AnswersWindow.xaml.cs<br/>
+- Answers.cs<br/>
