@@ -1,4 +1,4 @@
-<h1><b>To Play 10_questions_game</b></h1>
+<h1><b>To Play 10 Questions Game</b></h1>
 
 This is the front page of the game:
 
